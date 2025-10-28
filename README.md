@@ -1,5 +1,7 @@
 # Fullstack Developer with 10 years of experience
-Platform: menu - prepared food orders user/administrator for food establishment PostgreSQL(render.com) + Next JS + React + Node - (Full-Stack CRUD App)
+I have developed diferent e-commerce platforms, working since frontend with user experience to backend with databases and REST API.
+
+I have also integrated third-party API's such as Chat GPT and Open Router.
 ## 🚀 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue)
