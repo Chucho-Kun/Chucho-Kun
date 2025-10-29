@@ -57,4 +57,8 @@ You can see the published portfolio on GitHub Pages:
 📧 Email: jesus_web_master@hotmail.com  
 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/jes%C3%BAs-peralta-a740a5159/)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chucho-Kun&color=blue" alt="Profile Views" />
+</p>
+
 
